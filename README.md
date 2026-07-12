@@ -1,6 +1,6 @@
 大家好，我是练习时长两年半的Minecraft资源包制作者icEE_Rain（史诗抽象王爱抠鼻屎），喜欢ctrl
 
-该仓库用于存放基岩版图形包的相关文件，其中包括icEE Vibrant Visuals，该项目由Bilibili @icEE_Rain 制作并发布（史诗抽象王爱抠鼻屎），希望大家可以喜欢！！！
+该仓库用于存放基岩版图形包的相关文件，其中包括icEE Vibrant Visuals，该项目由Bilibili @icEE_Rain 制作并发布，希望大家可以喜欢！！！
 
 该材质包对于原版的Vibrant进行了以下更改：
 
